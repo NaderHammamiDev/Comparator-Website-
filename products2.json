@@ -1,0 +1,2677 @@
+[
+    {
+        "product_name": "Ibn Jazzar",
+        "common_product_name": "santé",
+        "type": "Pack",
+        "bank": "STB",
+        "fees": "37,000",
+        "frequency": "annual",
+        "is_national": "True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Services Télématique Et Banque Directe",
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Adhésion Pack",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Avicène",
+        "common_product_name": "santé",
+        "type": "Pack",
+        "bank": "STB",
+        "fees": "37,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Services Télématique Et Banque Directe",
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Adhésion Pack",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Marhaba",
+        "common_product_name": "TRE",
+        "type": "Pack",
+        "bank": "STB",
+        "fees": "18,500",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Services Télématique Et Banque Directe",
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Adhésion Pack",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Marhaba International",
+        "common_product_name": "TRE",
+        "type": "Pack",
+        "bank": "STB",
+        "fees": "25,000",
+        "frequency": "annual",
+        "is_national": "False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Services Télématique Et Banque Directe",
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Adhésion Pack",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+
+    {
+        "product_name": "Offre Privilège",
+        "common_product_name": "gold",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "144,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Offre Pro Santé",
+        "common_product_name": "santé",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "160,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Offre Solution entreprise",
+        "common_product_name": "professionnels",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "200,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Offre Solution entreprise+",
+        "common_product_name": "professionnels",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "360,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Ambition",
+        "common_product_name": "jeunes actifs",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "69,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Bideya",
+        "common_product_name": "jeunes actifs",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "84,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Bledi+",
+        "common_product_name": "TRE",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "70,000",
+        "frequency": "annual",
+        "is_national":"False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack CIB",
+        "common_product_name": "classique",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "72,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Gold",
+        "common_product_name": "gold",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "138,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Mutuelleville ",
+        "common_product_name": "autres",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "200,000",
+        "frequency": "annual",
+        "is_national": null,
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Pro",
+        "common_product_name": "professionnels",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "144,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Salaire+",
+        "common_product_name": "découvert",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "90,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack transfert",
+        "common_product_name": "transfert",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "20,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack VISA",
+        "common_product_name": "classique",
+        "type": "Pack",
+        "bank": "Attijari",
+        "fees": "102,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Pour les produits qui se présentent sous forme d'offre packagée",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "PACKAGE « BLEDNA »",
+        "common_product_name": "TRE",
+        "type": "Pack",
+        "bank": "BH",
+        "fees": {
+            "option 1": "54,400",
+            "option 2": "59,400",
+            "option 3": "50,000"
+        },
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFETS, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Commissions sur PACKAGE",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "PACKAGE « ACCESS »",
+        "common_product_name": "classique",
+        "type": "Pack",
+        "bank": "BH",
+        "fees": "20,000",
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFETS, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Commissions sur PACKAGE",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "PACKAGE « SELECT »",
+        "common_product_name": "découvert",
+        "type": "Pack",
+        "bank": "BH",
+        "Fees": "25,000",
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFETS, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Commissions sur PACKAGE",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "PACKAGE « ELITE »",
+        "common_product_name": "gold",
+        "type": "Pack",
+        "bank": "BH",
+        "fees": "32,500",
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFETS, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Commissions sur PACKAGE",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "PACKAGE « SENIOR »",
+        "common_product_name": "senior",
+        "type": "Pack",
+        "bank": "BH",
+        "fees": {
+            "option 1": "120,000",
+            "option 2": "195,000",
+            "option 3": "245,000"
+        },
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFETS, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Commissions sur PACKAGE",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "PACKAGE « SMART »",
+        "common_product_name": "crédit permis et électroniques",
+        "type": "Pack",
+        "bank": "BH",
+        "fees": "15,000",
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFETS, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Commissions sur PACKAGE",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "PACKAGE « AMAD »",
+        "common_product_name": "autres",
+        "type": "Pack",
+        "bank": "BH",
+        "fees": "20,000",
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFETS, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "Commissions sur PACKAGE",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+
+    {
+        "product name": "Pack Classique",
+        "common product name": "classique",
+        "type": "Pack",
+        "bank": "Zitouna",
+        "fees": "70,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "Commissions sur les Opérations Bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "COTISATIONS ANNUELLES DES PACKS",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Gold",
+        "common_product_name": "gold",
+        "type": "Pack",
+        "bank": "Zitouna",
+        "fees": "75,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "Commissions sur les Opérations Bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "COTISATIONS ANNUELLES DES PACKS",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Platinum",
+        "common_product_name": "platinum",
+        "type": "Pack",
+        "bank": "Zitouna",
+        "fees": "125,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "Commissions sur les Opérations Bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "COTISATIONS ANNUELLES DES PACKS",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Sayedati",
+        "common_product_name": "femmes",
+        "type": "Pack",
+        "bank": "Zitouna",
+        "fees": "175,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "Commissions sur les Opérations Bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "COTISATIONS ANNUELLES DES PACKS",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Business First",
+        "common_product_name": "professionnels",
+        "type": "Pack",
+        "bank": "Zitouna",
+        "fees": "250,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "Commissions sur les Opérations Bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "COTISATIONS ANNUELLES DES PACKS",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Business Optimum",
+        "common_product_name": "professionnels",
+        "type": "Pack",
+        "bank": "Zitouna",
+        "fees": "350,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "Commissions sur les Opérations Bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "COTISATIONS ANNUELLES DES PACKS",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+    {
+        "product_name": "Pack Business Premium",
+        "common_product_name": "professionnels",
+        "type": "Pack",
+        "bank": "Zitouna",
+        "fees": "450,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "Commissions sur les Opérations Bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "service telematique et banque directe"
+            }, 
+            "lv4": {
+                "category_name": "COTISATIONS ANNUELLES DES PACKS",
+                "common_category_name": "commission packs"
+            } 
+        }
+    },
+
+
+
+
+    {
+        "product_name": "Carte 'Jump' ",
+        "common_product_name": "jeunes",
+        "bank": "STB",
+        "type": "Carte",
+        "fees": "Gratuit",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Visa Classic Nationale",
+        "common_product_name": "classique",
+        "bank": "STB",
+        "type": "Carte",
+        "fees": "35,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Visa Classic Internationale",
+        "common_product_name": "classique",
+        "bank": "STB",
+        "type": "Carte",
+        "fees": "90,000",
+        "frequency": "annual",
+        "is_national":"False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte visa Electron Nationale",
+        "common_product_name": "electronique",
+        "bank": "STB",
+        "type": "Carte",
+        "fees": "35,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte CIB",
+        "common_product_name": "CIB",
+        "bank": "STB",
+        "type": "Carte",
+        "fees": "20,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte MasterCard Gold Nationale",
+        "Common product name": "gold",
+        "bank": "STB",
+        "type": "Carte",
+        "Fees": "100,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte MasterCard Gold Internationale",
+        "Common product name": "gold",
+        "bank": "STB",
+        "type": "Carte",
+        "Fees": "130,000",
+        "frequency": "annual",
+        "is_national":"False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte STB Travel",
+        "Common product name": "travel",
+        "bank": "STB",
+        "type": "Carte",
+        "Fees": "45,000",
+        "frequency": "annual",
+        "is_national":"False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Technologique Internationale Particulier ",
+        "Common product name": "technologique",
+        "bank": "STB",
+        "type": "Carte",
+        "Fees": "15,000",
+        "frequency": "annual",
+        "is_national":"False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Technologique Internationale Entreprise",
+        "Common product name": "technologique",
+        "bank": "STB",
+        "type": "Carte",
+        "Fees": "40,000",
+        "frequency": "annual",
+        "is_national":"False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Visa Platinum Business Nationale",
+        "Common product name": "platinum",
+        "bank": "STB",
+        "type": "Carte",
+        "Fees": "160,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Visa Platinum Business Internationale",
+        "Common product name": "platinum",
+        "bank": "STB",
+        "type": "Carte",
+        "Fees": "210,000",
+        "frequency": "annual",
+        "is_national":"False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte C-Pay",
+        "Common product name": "entreprise",
+        "bank": "STB",
+        "type": "Carte",
+        "Fees": "15,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte C-Cash ",
+        "Common product name": "rechargeable",
+        "bank": "STB",
+        "type": "Carte",
+        "Fees": "15,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Commissions Sur Les Operations Monétiques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation, renouvellement, remplacement",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+
+
+    {
+        "product_name": "carte locale (C.I.B.T)",
+        "common_product_name": "CIB",
+        "bank": "Attijari",
+        "type": "Carte",
+        "fees": "15,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "autres cartes locales (Visa / Master) ",
+        "Common product name": "autres",
+        "bank": "Attijari",
+        "type": "Carte",
+        "Fees": "45,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "MasterCard Gold nationale",
+        "Common product name": "gold",
+        "bank": "Attijari",
+        "type": "Carte",
+        "Fees": "70,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "carte internationale (Visa / Master)",
+        "Common product name": "classique",
+        "bank": "Attijari",
+        "type": "Carte",
+        "Fees": "60,000",
+        "frequency": "annual",
+        "is_national":"False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "MasterCard Gold Internationale",
+        "Common product name": "gold",
+        "bank": "Attijari",
+        "type": "Carte",
+        "Fees": "100,000",
+        "frequency": "annual",
+        "is_national":"False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "carte corp nationale",
+        "Common product name": "entreprise",
+        "bank": "Attijari",
+        "type": "Carte",
+        "Fees": "80,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "cartes prépayées (tous les 3 ans)",
+        "Common product name": "prépayée",
+        "bank": "Attijari",
+        "type": "Carte",
+        "Fees": "18,000",
+        "frequency": "annual",
+        "is_national":null,
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "carte Salaire+ ",
+        "Common product name": "découvert",
+        "bank": "Attijari",
+        "type": "Carte",
+        "Fees": "35,000",
+        "frequency": "annual",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "COMMISSION SUR LES OPERATIONS BANCAIRES",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "OPERATIONS SUR EFFET, CHEQUES ET OPERATIONS DIVERSES",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte CIB",
+        "Common product name": "CIB",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "15,000",
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Yasmine",
+        "Common product name": "découvert",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "35,000",
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Visa Nationale",
+        "Common product name": "classique",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "35,000",
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte mcd Nationale",
+        "Common product name": "classique",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "35,000",
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Gold Nationale",
+        "Common product name": "gold",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "85,000",
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Visa Internationale",
+        "Common product name": "classique",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "55,000",
+        "frequency": "quarterly",
+        "is_national":"False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Mcd Internationale",
+        "Common product name": "classique",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "55,000",
+        "frequency": "quarterly",
+        "is_national":"False",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte BH Scolarité",
+        "Common product name": "mineur",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "35,000",
+        "frequency": "quarterly",
+        "is_national":"True",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte BH Travel",
+        "Common product name": "travel",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "40,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte BH Technologie",
+        "Common product name": "technologique",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": {
+            "PP":"15,000",
+            "PM":"35,000" 
+        },
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte Gold Internationale(3)",
+        "Common product name": "gold",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "100,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte « COOL »",
+        "Common product name": "mineur",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "10,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "product_name": "Carte « GO »",
+        "Common product name": "jeunes",
+        "type": "Carte",
+        "bank": "BH",
+        "Fees": "15,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": "operations sur effet, cheques et operations diverses",
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": "Opérations par cartes électroniques",
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+
+    {
+        "Product name": "Carte Chahriti",
+        "Common product name": "entreprise",
+        "type": "Carte",
+        "bank": "Zitouna",
+        "Fees": "10,000",
+        "frequency": "annual",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "commission sur les affaires bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle des cartes",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Carte Tawfir",
+        "Common product name": "épargne",
+        "type": "Carte",
+        "bank": "Zitouna",
+        "Fees": "14,000",
+        "frequency": "annual",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "commission sur les affaires bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle des cartes",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Carte Sayedati",
+        "Common product name": "femmes",
+        "type": "Carte",
+        "bank": "Zitouna",
+        "Fees": "35,000",
+        "frequency": "annual",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "commission sur les affaires bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle des cartes",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Carte El Yosr",
+        "Common product name": "découvert",
+        "type": "Carte",
+        "bank": "Zitouna",
+        "Fees": "50,000",
+        "frequency": "annual",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "commission sur les affaires bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle des cartes",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Carte Technologique (Particuliers)",
+        "Common product name": "technologique",
+        "type": "Carte",
+        "bank": "Zitouna",
+        "Fees": "20,000",
+        "frequency": "annual",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "commission sur les affaires bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle des cartes",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Carte Technologique (Professionnels et Entreprises )",
+        "Common product name": "technologique",
+        "type": "Carte",
+        "bank": "Zitouna",
+        "Fees": "40,000",
+        "frequency": "annual",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": "commission sur les affaires bancaires",
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cotisation annuelle des cartes",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Carte CIB+",
+        "Common product name": "CIB",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "10,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Carte liberté",
+        "Common product name": "découvert",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "25,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Visa Classique nationale",
+        "Common product name": "classique",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "30,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Visa Gold nationale",
+        "Common product name": "gold",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "70,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Master Card Classique nationale",
+        "Common product name": "classique",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "30,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Master Card PayPass",
+        "Common product name": "autres",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "25,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Carte Jeunesse",
+        "Common product name": "jeunes",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "15,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            } 
+        }
+    },
+    {
+        "Product name": "Carte Entreprise",
+        "Common product name": "entreprise",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "10,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            }
+        }
+    },
+    {
+        "Product name": "Carte Platinum nationale",
+        "Common product name": "platinum",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "130,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            }
+        }
+    },
+    {
+        "Product name": "Carte liberté internationale",
+        "Common product name": "découvert",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "35,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            }
+        }
+    },
+    {
+        "Product name": "Visa Classique internationale",
+        "Common product name": "classique",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "45,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            }
+        }
+    },
+    {
+        "Product name": "Visa Gold internationale",
+        "Common product name": "gold",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "90,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            }
+        }
+    },
+    {
+        "Product name": "Master Card Classique internationale",
+        "Common product name": "classique",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "45,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            }
+        }
+    },
+    {
+        "Product name": "Master Card Electronique internationale",
+        "Common product name": "éléctronique",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "35,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            }
+        }
+    },
+    {
+        "Product name": "Carte Entreprise internationale",
+        "Common product name": "entreprise",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "40,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            }
+        }
+    },
+    {
+        "Product name": "Carte technologique",
+        "Common product name": "technologique",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "10,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            }
+        }
+    },
+    {
+        "Product name": "Carte Platinum internationale",
+        "Common product name": "platinum",
+        "type": "Carte",
+        "bank": "BT",
+        "Fees": "150,000",
+        "frequency": "quarterly",
+        "Table Number":"",
+        "Row":"",
+        "categories": {
+            "lv1": {
+                "category_name": null,
+                "common_category_name": "commission sur les operations bancaires"
+            }, 
+            "lv2": {
+                "category_name": null,
+                "common_category_name": "operations sur effet, cheques et operations diverses"
+            },
+            "lv3": {
+                "category_name": null,
+                "common_category_name": "operations par cartes electroniques"
+            }, 
+            "lv4": {
+                "category_name": "Cartes éléctroniques (cotisation annuelle)",
+                "common_category_name": "cotisation"
+            }
+        }
+    }
+]
